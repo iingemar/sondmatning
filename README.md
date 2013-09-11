@@ -1,4 +1,6 @@
 sondmatning
 ===========
 
-Sondmatning webapp made with jQuery mobile
+Google Appengine webapp made with jQuery mobile.
+
+http://sondmatning.appspot.com
