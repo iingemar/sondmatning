@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sondmatning.appspot.com:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sondmatning_appspot_com_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sondmatning.appspot.com/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sondmatning.appspot.com" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="AppEngine API" />
+          <element id="library" level="project" name="AppEngine ORM" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
